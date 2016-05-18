@@ -1,0 +1,10 @@
+def Menu():
+    print("*** Menu ***")
+    print("[1] Cadastrar remedio")
+    print("[2] Listar remedios cadastrados")
+    print("[3] Calcula precos")
+    print("[4] Consulta estoque")
+    print("[5] Calcula desconto")
+    print("[6] Data de vencimento")
+    print("[7] Remover produtos vencidos")
+    print("[8] Sair ")
